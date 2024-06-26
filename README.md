@@ -98,3 +98,4 @@ En este ejemplo:
   6. [Agregando Estilos CSS a HTML: La Guía Completa para Principiantes](`https://bing.com/search?q=agregar+estilos+CSS+a+art%c3%adculo+HTML`)
 7. [Cómo agregar estilos CSS a HTML – CSS 101.](https://css101.net/como-agregar-estilos-css-a-html/) 
 8. [wikipedia.org.es](https://es.wikipedia.org/wiki/CSS)
+9. [779e5f1-3a85-4bcd-aa72-6b84ecd14ec9](https://github.com/notebook-t/notebook-t/issues/26) 
